@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/frazeal/payfast/issues"
   },
-  "homepage": "https://github.com/frazeal/payfast#readme"
+  "homepage": "https://github.com/frazeal/payfast#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
